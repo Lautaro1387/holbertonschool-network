@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# ping the command
 IP_ADDRESS=$1
 if [ $# -eq 0 ]
 then
